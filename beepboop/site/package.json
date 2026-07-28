@@ -8,8 +8,8 @@
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
-    "@dynamic-labs/sdk-react-core": "^4.83.0",
-    "@dynamic-labs/solana": "^4.83.0",
+    "@dynamic-labs/sdk-react-core": "^4.94.0",
+    "@dynamic-labs/solana": "^4.94.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },
